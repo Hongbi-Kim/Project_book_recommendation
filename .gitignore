@@ -8,6 +8,8 @@
 visitors_files
 file_path
 
+*.plk
+*.pkl
 *.geojson
 *.csv
 *.xlsx

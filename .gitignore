@@ -9,6 +9,7 @@ visitors_files
 file_path
 
 Mecab-ko-for-Google-Colab
+*.xls
 *.plk
 *.pkl
 *.geojson

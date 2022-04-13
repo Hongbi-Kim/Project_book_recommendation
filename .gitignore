@@ -21,6 +21,7 @@ Mecab-ko-for-Google-Colab
 *.png
 *.txt
 *.docx
+*.pptx
 
 *.exe
 *.git

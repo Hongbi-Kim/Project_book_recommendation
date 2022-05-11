@@ -22,7 +22,9 @@ Mecab-ko-for-Google-Colab
 *.txt
 *.docx
 *.pptx
-
+분석
+*.mp4
+Mecab-ko-for-Google-Colab
 *.exe
 *.git
 .ipynb_checkpoints

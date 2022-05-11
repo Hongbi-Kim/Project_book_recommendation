@@ -78,7 +78,7 @@
 
 프로그램 흐름도
 
-![](README.assets/Untitled (4).png)
+![](Untitled (4).png)
 
 <br>
 
